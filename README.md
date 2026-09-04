@@ -64,18 +64,6 @@ queries, data manipulation, and problem-solving.
 
 ---
 
-## 📊 GitHub Stats
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shaindhavi1610&show_icons=true&hide_border=true" alt="Shaindhavi's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaindhavi1610&layout=compact&hide_border=true" alt="Top Languages" />
-</p>
-
-
 ---
 
 ## 🤝 Connect With Me
